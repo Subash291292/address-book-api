@@ -30,7 +30,7 @@ Following features are developed as part of this assignment,
   
   Unit Testing
 
-# How to use to start and use
+# How to start and use
 
 Build
 
