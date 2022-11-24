@@ -1,15 +1,14 @@
 # Address Book (Backend application)
 
-Following features are developed as part of this assignment
-Address book should hold name and phone number of contact entries
+Following features are developed as part of this assignment,
+
+  Address book should hold name and phone number of contact entries
 
   Users should be able to add a new contact entry to an existing address book
   
   Users should be able to retrieve a unique set of all contacts
-  
-  across multiple address books with ascending order
-
-Assumptions
+ 
+# Assumptions
 
  There are already two existing address books initialised in memory
  
@@ -19,7 +18,7 @@ Assumptions
  
  Deployment is NOT required
 
-Note that it is not a production qualiity code but just a demonstration of a few aspects of
+# Note that it is not a production qualiity code but just a demonstration of a few aspects of
 
   Java
   
@@ -31,7 +30,7 @@ Note that it is not a production qualiity code but just a demonstration of a few
   
   Unit Testing
 
-How to use to start and use
+# How to use to start and use
 
 Build
 
