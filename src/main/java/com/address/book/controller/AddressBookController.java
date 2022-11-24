@@ -28,7 +28,7 @@ public class AddressBookController {
             return new ResponseEntity<AddressBook>(book, HttpStatus.CREATED);
         } catch (Exception e) {
             log.error("Exception occurred in saveAddressBook method  : ", e);
-            throw new InternalServerException("Error while saving the Address Book request");
+            throw new InternalServerException("Error while saving this request");
         }
     }
     
@@ -41,7 +41,7 @@ public class AddressBookController {
         }
         catch (Exception e) {
             log.error("Exception block  : ", e);
-            throw new InternalServerException("Error while processing request");
+            throw new InternalServerException("Error while processing this request");
         }
     }
 }
